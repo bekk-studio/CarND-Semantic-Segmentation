@@ -44,3 +44,27 @@ If you are unfamiliar with GitHub , Udacity has a brief [GitHub tutorial](http:/
 To learn about REAMDE files and Markdown, Udacity provides a free [course on READMEs](https://www.udacity.com/courses/ud777), as well. 
 
 GitHub also provides a [tutorial](https://guides.github.com/features/mastering-markdown/) about creating Markdown files.
+
+## FCN Architecture
+
+See source below:
+
+[A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review#fcn)
+
+Exemple of semantic segmentaion (segnet)
+
+![FCN](segnet_architecture.png)
+
+VGG network:
+
+![VGG](3-Figure3-1.png)
+
+## My Results
+
+![semantic segmentation 1](uu_000093.png)
+
+![semantic segmentation 2](uu_000096.png)
+
+
+
+
